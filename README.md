@@ -1,4 +1,4 @@
-Hello! I'm harqis, statistical data analytics student.
+I'm a statistical data analytics student.
 I will use Github for my personal projects.
 
 <!---
