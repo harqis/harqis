@@ -1,5 +1,5 @@
 I'm a statistical data analytics student.
-I will use Github for my personal projects.
+I use Github for my personal projects.
 
 <!---
 harqis/harqis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
